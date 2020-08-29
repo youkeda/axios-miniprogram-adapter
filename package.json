@@ -1,5 +1,5 @@
 {
-  "name": "axios-miniprogram-adapter",
+  "name": "@ykd/axios-miniprogram-adapter",
   "version": "0.3.2",
   "description": "Axios adapter for miniprogram",
   "main": "dist/index.js",
@@ -57,6 +57,6 @@
      "axios": "^0.19.2"
   },
   "dependencies": {
-   
+
   }
 }
